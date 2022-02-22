@@ -157,7 +157,7 @@ html {
     position: relative;
     margin-top: 70px;
     padding-top: 50%;
-    background: url(/assets/img/slider/slider3.jpg) top center /cover no-repeat;
+    background: url(/assets/img/slider/chicago.jpg) top center /cover no-repeat;
 }
 
 #slider .text-content {
@@ -170,13 +170,13 @@ html {
 }
 
 #slider .text-heading {
-    color: #000;
+    color: #fff;
     font-weight: 2000;
     font-size: 30px;
 }
 
 #slider .text-description {
-    color: #000;
+    color: #fff;
     font-size: 20px;
 }
 
